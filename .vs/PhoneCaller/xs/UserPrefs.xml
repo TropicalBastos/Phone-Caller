@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E05C222D-619E-48D3-9BD9-5885A06FA2BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.PhoneCaller.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6484B444-172C-419C-A43A-B16F55B813B9" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/TitleRenderer.cs">
+    <Files>
+      <File FileName="iOS/TextViewRenderer.cs" Line="10" Column="34" />
+      <File FileName="PhoneCaller/MainPage.cs" Line="39" Column="30" />
+      <File FileName="iOS/TitleRenderer.cs" Line="14" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhoneCaller.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>

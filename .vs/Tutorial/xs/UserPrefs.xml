@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E05C222D-619E-48D3-9BD9-5885A06FA2BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/PhoneCall.cs">
+    <Files>
+      <File FileName="Tutorial/App.xaml.cs" Line="11" Column="36" />
+      <File FileName="Tutorial/App.xaml" Line="7" Column="1" />
+      <File FileName="Tutorial/MainPage.cs" Line="60" Column="27" />
+      <File FileName="Tutorial/Controls/SubmitButton.xaml" Line="20" Column="1" />
+      <File FileName="Tutorial/Controls/SubmitButton.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/TextViewRenderer.cs" Line="27" Column="2" />
+      <File FileName="iOS/AppDelegate.cs" Line="15" Column="48" />
+      <File FileName="Tutorial/packages.config" Line="1" Column="1" />
+      <File FileName="Tutorial/Controls/TextView.cs" Line="29" Column="69" />
+      <File FileName="Tutorial/Interfaces/IPhoneCall.cs" Line="7" Column="48" />
+      <File FileName="iOS/PhoneCall.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tutorial.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.Tutorial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6484B444-172C-419C-A43A-B16F55B813B9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Tutorial.iOS>
+</Properties>

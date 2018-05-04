@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCaller.iOS", "PhoneCaller.iOS.csproj", "{E05C222D-619E-48D3-9BD9-5885A06FA2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Release|iPhone.Build.0 = Release|iPhone
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E05C222D-619E-48D3-9BD9-5885A06FA2BB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
